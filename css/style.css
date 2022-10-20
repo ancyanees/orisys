@@ -1,0 +1,135 @@
+		/* Theme-Name:Orisys Academy.com */
+		/* author: Ancy A */
+		/* Date:04/01/2020 */
+
+
+/* -------------------------------------------------------------starts section1-------------------------------- */
+
+			
+
+			
+
+			
+			.banner{
+				background-image:url("../img/slider-4.jpg");
+				background-size:cover;
+				background-position:center;
+			}
+
+/* -------------------------------------------------------------ends section1--------------------------------*/
+
+/* -------------------------------------------------------------starts section2--------------------------------*/		
+			
+			.col-custom-bg{
+				background-color:rgba(0,0,0,0.7);
+			}
+
+/* -------------------------------------------------------------ends section2--------------------------------*/
+
+/* -------------------------------------------------------------starts section3--------------------------------*/			
+			.bg-img1{
+				background-image:url("../img/about-bg.jpg");
+				background-size:cover;
+				background-position:center;
+			}
+			.custom-colr{
+				background-color:rgba(0,0,0,.1);
+				font-size:15px;
+			}
+			.custom-colr i{
+				margin-left:10px;
+			}
+			
+			
+
+/* -------------------------------------------------------------ends section3--------------------------------*/
+
+/* -------------------------------------------------------------starts section4--------------------------------*/			
+			.section-bg-img{
+				background-image:url("../img/slider-2.jpg");
+				background-size:cover;
+				background-position:center;
+			}
+			.back-bg{
+				background:rgba(0,0,0,0.6);
+			}
+
+/* -------------------------------------------------------------ends section4--------------------------------*/
+
+/* -------------------------------------------------------------starts media section--------------------------------*/
+
+
+			@media(max-width:768px){
+				.font1{
+					margin-right:50px;
+				}
+				.social-media{
+					margin-left:250px;
+					margin-top:-50px;
+				}
+				.right-side{
+					margin-left:280px;
+					margin-top:-90px;
+				}
+				.right-side button{
+					background-color:white;
+				}
+				.img-width img{
+					width:70%;
+					height:120px;
+					margin-top:-40px;
+				}
+				.font-a li a{
+					font-size:13px;
+				}
+				.font-a1{
+					margin-left:-10px;
+				}
+				.col-custom-bg{
+					width:70%;
+					margin-left:50px;
+					margin-top:10px;
+				}
+				.col-custom-bg 	h2{
+					font-size:15px;
+					margin-top:15px;
+				}
+				.col-custom-bg i{
+					font-size:18px;
+				}
+				.media-icon i{
+					font-size:20px;
+				}
+				.med-styl h1{
+					font-size:38px;	
+				}
+				.med-styl h3{
+					font-size:25px;	
+				}
+				.med-styl h4{
+					font-size:20px;	
+				}
+				.media-style h2{
+					font-size:23px;
+				}
+				.media-style p{
+					font-size:14px;
+				}
+				.media-image{
+					margin-left:40px;
+					margin-top:10px;
+					
+					
+				}
+				.back-bg h1{
+					font-size:25px;
+				}
+				.back-bg h5{
+					font-size:16px;
+				}
+				.custom-colr i{
+					margin-left:12px;
+				}
+			}
+
+/* -------------------------------------------------------------ends media section--------------------------------*/
